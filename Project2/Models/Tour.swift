@@ -8,7 +8,7 @@
 import Foundation
 
 struct Tour: Codable {
-    let name: String
-    let duration: String
-    let description: String
+    let title: String
+    let fileName: String
+    let isVideo: Bool
 }

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Destination_Lake_1448869_0d38d877-9462-42a4-8a8d-6aad75d35062.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

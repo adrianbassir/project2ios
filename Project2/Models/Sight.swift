@@ -9,7 +9,8 @@ import Foundation
 
 struct Sight: Codable {
     let name: String
-    let location: String
     let description: String
     let imageName: String
+    let latitude: Double
+    let longitude: Double
 }
